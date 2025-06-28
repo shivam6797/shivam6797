@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: **Backend Integration & Firebase**
 - 💬 Ask me about: **Flutter, Dart, BLoC, REST API**
 - 📫 Reach me at: **shivampratap6797@gmail.com**
-- 😄 My Portfolio: [shivamfolio.netlify.app](https://shivamfolio.netlify.app)
+- 😄 My Portfolio: [shivamfolio.netlify.app](https://shivamportfolio67.netlify.app/)
 - ⚡ Fun fact: **I turn chai ☕ into clean code!**
 
 ---
